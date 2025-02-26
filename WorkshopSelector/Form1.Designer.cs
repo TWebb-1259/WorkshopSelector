@@ -60,18 +60,18 @@
             WorkshopLabel.AutoSize = true;
             WorkshopLabel.Location = new Point(39, 30);
             WorkshopLabel.Name = "WorkshopLabel";
-            WorkshopLabel.Size = new Size(78, 20);
+            WorkshopLabel.Size = new Size(134, 20);
             WorkshopLabel.TabIndex = 2;
-            WorkshopLabel.Text = "Workshop:";
+            WorkshopLabel.Text = "Select a Workshop:";
             // 
             // LocationLabel
             // 
             LocationLabel.AutoSize = true;
             LocationLabel.Location = new Point(248, 30);
             LocationLabel.Name = "LocationLabel";
-            LocationLabel.Size = new Size(69, 20);
+            LocationLabel.Size = new Size(125, 20);
             LocationLabel.TabIndex = 3;
-            LocationLabel.Text = "Location:";
+            LocationLabel.Text = "Select a Location:";
             // 
             // displayDetails
             // 
